@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Legal RAG Assistant</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <div class="ambient ambient-left"></div>
+    <div class="ambient ambient-right"></div>
+
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Legal Reasoning Engine</p>
+        <h1>Dark legal chat workspace</h1>
+      </div>
+      <div class="topbar-meta">
+        <span class="top-pill">Grounded retrieval</span>
+        <span class="top-pill">Cross-law support</span>
+        <span class="top-pill">Chat-first workflow</span>
+      </div>
+    </header>
+
+    <main class="app-layout">
+      <section class="chat-panel">
+        <div class="chat-header">
+          <div>
+            <p class="eyebrow">Conversation</p>
+            <h2>Ask for legal guidance in plain language</h2>
+          </div>
+          <span id="mode-badge" class="mode-badge">Idle</span>
+        </div>
+
+        <div id="chat-transcript" class="chat-transcript" aria-live="polite">
+          <section id="welcome-state" class="welcome-state">
+            <div class="welcome-copy">
+              <p class="eyebrow">Start here</p>
+              <h3>Describe the facts, issue, or procedural question</h3>
+              <p class="supporting-text">
+                The assistant can respond conversationally, ask for clarification when the facts are thin,
+                and surface the most relevant legal sections in the companion panel.
+              </p>
+            </div>
+
+            <div class="sample-grid">
+              <button type="button" class="sample-chip" data-sample="Hello, what can you do?">Casual greeting</button>
+              <button type="button" class="sample-chip" data-sample="The accused intentionally hit the victim with an iron rod and caused a fracture. Which legal sections may apply?">Criminal facts</button>
+              <button type="button" class="sample-chip" data-sample="Which law applies if a witness statement is being challenged for admissibility?">Evidence issue</button>
+              <button type="button" class="sample-chip" data-sample="I need to know whether this is about bail or arrest procedure, but I only know the police took him away.">Ambiguous procedure</button>
+            </div>
+          </section>
+        </div>
+
+        <form id="chat-form" class="composer-shell">
+          <label for="message" class="sr-only">Message</label>
+          <div class="composer-frame">
+            <textarea id="message" name="message" rows="1" placeholder="Message the legal assistant..." required></textarea>
+            <div class="composer-actions">
+              <button type="button" id="clear-button" class="ghost-button">Clear</button>
+              <button type="submit" id="send-button" class="send-button">Send</button>
+            </div>
+          </div>
+          <p id="form-status" class="form-status" aria-live="polite"></p>
+        </form>
+      </section>
+
+      <aside class="insight-panel">
+        <article class="insight-card">
+          <div class="insight-heading">
+            <div>
+              <p class="eyebrow">Status</p>
+              <h3>Routing and response state</h3>
+            </div>
+          </div>
+          <div class="status-grid">
+            <div class="status-block">
+              <span class="status-label">Current mode</span>
+              <span id="sidebar-mode" class="status-value">Idle</span>
+            </div>
+            <div class="status-block">
+              <span class="status-label">Last update</span>
+              <span id="sidebar-status" class="status-value muted">Waiting for a message.</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="insight-card">
+          <div class="insight-heading">
+            <div>
+              <p class="eyebrow">Follow-Up</p>
+              <h3>Clarification questions</h3>
+            </div>
+          </div>
+          <div id="follow-up-empty" class="empty-state">If the facts are incomplete, targeted follow-up questions will appear here.</div>
+          <ul id="follow-up-list" class="question-list"></ul>
+        </article>
+
+        <article class="insight-card">
+          <div class="insight-heading">
+            <div>
+              <p class="eyebrow">Applicable Sections</p>
+              <h3>Ranked legal matches</h3>
+            </div>
+          </div>
+          <div id="sections-empty" class="empty-state">Relevant legal sections will appear here for grounded legal queries.</div>
+          <div id="sections-list" class="section-list"></div>
+        </article>
+      </aside>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

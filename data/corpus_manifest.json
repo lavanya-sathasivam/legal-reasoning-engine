@@ -1,0 +1,31 @@
+{
+  "enabled_laws": [
+    "BNS"
+  ],
+  "laws": {
+    "BNS": {
+      "label": "Bharatiya Nyaya Sanhita",
+      "loader": "bns_json",
+      "raw_path": "raw/corrected_bns.json",
+      "processed_path": "processed/bns_sections_ai_ready.json"
+    },
+    "BNSS": {
+      "label": "Bharatiya Nagarik Suraksha Sanhita",
+      "loader": "generic_records",
+      "raw_path": "raw/bnss/sections.json",
+      "processed_path": "processed/bnss_sections_ai_ready.json"
+    },
+    "BSA": {
+      "label": "Bharatiya Sakshya Adhiniyam",
+      "loader": "generic_records",
+      "raw_path": "raw/bsa/sections.json",
+      "processed_path": "processed/bsa_sections_ai_ready.json"
+    },
+    "Constitution": {
+      "label": "Constitution of India",
+      "loader": "generic_records",
+      "raw_path": "raw/constitution/sections.json",
+      "processed_path": "processed/constitution_sections_ai_ready.json"
+    }
+  }
+}

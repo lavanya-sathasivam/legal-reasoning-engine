@@ -1,0 +1,2150 @@
+{
+  "0": {
+    "source_id": "BNS:1",
+    "law": "BNS",
+    "section": "1",
+    "title": "Short title, commencement and application."
+  },
+  "1": {
+    "source_id": "BNS:2",
+    "law": "BNS",
+    "section": "2",
+    "title": "Definitions."
+  },
+  "2": {
+    "source_id": "BNS:3",
+    "law": "BNS",
+    "section": "3",
+    "title": "General explanations. (1) Throughout this Sanhita every definition of an offence, every penal"
+  },
+  "3": {
+    "source_id": "BNS:4",
+    "law": "BNS",
+    "section": "4",
+    "title": "Punishments. The punishments to which offenders are liable under the provisions of this"
+  },
+  "4": {
+    "source_id": "BNS:5",
+    "law": "BNS",
+    "section": "5",
+    "title": "Commutation of sentence"
+  },
+  "5": {
+    "source_id": "BNS:6",
+    "law": "BNS",
+    "section": "6",
+    "title": "Fractions of terms of punishment. In calculating fractions of terms of punishment,"
+  },
+  "6": {
+    "source_id": "BNS:7",
+    "law": "BNS",
+    "section": "7",
+    "title": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple"
+  },
+  "7": {
+    "source_id": "BNS:8",
+    "law": "BNS",
+    "section": "8",
+    "title": "Amount of fine, liability in default of payment of fine, etc"
+  },
+  "8": {
+    "source_id": "BNS:9",
+    "law": "BNS",
+    "section": "9",
+    "title": "Limit of punishment of offence made up of several offences"
+  },
+  "9": {
+    "source_id": "BNS:10",
+    "law": "BNS",
+    "section": "10",
+    "title": "Punishment of person guilty of one of several offences, judgment stating that it is doubtful"
+  },
+  "10": {
+    "source_id": "BNS:11",
+    "law": "BNS",
+    "section": "11",
+    "title": "Solitary confinement. Whenever any person is convicted of an offence for which under this"
+  },
+  "11": {
+    "source_id": "BNS:12",
+    "law": "BNS",
+    "section": "12",
+    "title": "Limit of solitary confinement. In executing a sentence of solitary confinement, such"
+  },
+  "12": {
+    "source_id": "BNS:13",
+    "law": "BNS",
+    "section": "13",
+    "title": "Enhanced punishment for certain offences after previous conviction. Whoever, having been"
+  },
+  "13": {
+    "source_id": "BNS:14",
+    "law": "BNS",
+    "section": "14",
+    "title": "Act done by a person bound, or by mistake of fact believing himself bound, by law."
+  },
+  "14": {
+    "source_id": "BNS:15",
+    "law": "BNS",
+    "section": "15",
+    "title": "Act of Judge when acting judicially. Nothing is an offence which is done by a Judge when"
+  },
+  "15": {
+    "source_id": "BNS:16",
+    "law": "BNS",
+    "section": "16",
+    "title": "Act done pursuant to judgment or order of Court"
+  },
+  "16": {
+    "source_id": "BNS:17",
+    "law": "BNS",
+    "section": "17",
+    "title": "Act done by a person justified, or by mistake of fact believing himself justified, by law."
+  },
+  "17": {
+    "source_id": "BNS:18",
+    "law": "BNS",
+    "section": "18",
+    "title": "Accident in doing a lawful act. Nothing is an offence which is done by accident or misfortune,"
+  },
+  "18": {
+    "source_id": "BNS:19",
+    "law": "BNS",
+    "section": "19",
+    "title": "Act likely to cause harm, but done without criminal intent, and to prevent other harm."
+  },
+  "19": {
+    "source_id": "BNS:20",
+    "law": "BNS",
+    "section": "20",
+    "title": "Act of a child under seven years of age"
+  },
+  "20": {
+    "source_id": "BNS:21",
+    "law": "BNS",
+    "section": "21",
+    "title": "Act of a child above seven and under twelve years of age of immature understanding."
+  },
+  "21": {
+    "source_id": "BNS:22",
+    "law": "BNS",
+    "section": "22",
+    "title": "Act of a person of unsound mind"
+  },
+  "22": {
+    "source_id": "BNS:23",
+    "law": "BNS",
+    "section": "23",
+    "title": "Act of a person incapable of judgment by reason of intoxication caused against his will."
+  },
+  "23": {
+    "source_id": "BNS:24",
+    "law": "BNS",
+    "section": "24",
+    "title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated."
+  },
+  "24": {
+    "source_id": "BNS:25",
+    "law": "BNS",
+    "section": "25",
+    "title": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent"
+  },
+  "25": {
+    "source_id": "BNS:26",
+    "law": "BNS",
+    "section": "26",
+    "title": "Act not intended to cause death, done by consent in good faith for person's benefit."
+  },
+  "26": {
+    "source_id": "BNS:27",
+    "law": "BNS",
+    "section": "27",
+    "title": "Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian"
+  },
+  "27": {
+    "source_id": "BNS:28",
+    "law": "BNS",
+    "section": "28",
+    "title": "Consent known to be given under fear or misconception. A consent is not such a consent as"
+  },
+  "28": {
+    "source_id": "BNS:29",
+    "law": "BNS",
+    "section": "29",
+    "title": "Exclusion of acts which are offences independently of harm caused"
+  },
+  "29": {
+    "source_id": "BNS:30",
+    "law": "BNS",
+    "section": "30",
+    "title": "Act done in good faith for benefit of a person without consent"
+  },
+  "30": {
+    "source_id": "BNS:31",
+    "law": "BNS",
+    "section": "31",
+    "title": "Communication made in good faith"
+  },
+  "31": {
+    "source_id": "BNS:32",
+    "law": "BNS",
+    "section": "32",
+    "title": "Act to which a person is compelled by threats. Except murder, and offences against the State"
+  },
+  "32": {
+    "source_id": "BNS:33",
+    "law": "BNS",
+    "section": "33",
+    "title": "Act causing slight harm"
+  },
+  "33": {
+    "source_id": "BNS:34",
+    "law": "BNS",
+    "section": "34",
+    "title": "Things done in private defence"
+  },
+  "34": {
+    "source_id": "BNS:35",
+    "law": "BNS",
+    "section": "35",
+    "title": "Right of private defence of body and of property"
+  },
+  "35": {
+    "source_id": "BNS:36",
+    "law": "BNS",
+    "section": "36",
+    "title": "Right of private defence against act of a person of unsound mind, etc. When an act, which"
+  },
+  "36": {
+    "source_id": "BNS:37",
+    "law": "BNS",
+    "section": "37",
+    "title": "Acts against which there is no right of private defence. (1) There is no right of private"
+  },
+  "37": {
+    "source_id": "BNS:38",
+    "law": "BNS",
+    "section": "38",
+    "title": "When right of private defence of body extends to causing death. The right of private"
+  },
+  "38": {
+    "source_id": "BNS:39",
+    "law": "BNS",
+    "section": "39",
+    "title": "When such right extends to causing any harm other than death. If the offence be not of any"
+  },
+  "39": {
+    "source_id": "BNS:40",
+    "law": "BNS",
+    "section": "40",
+    "title": "Commencement and continuance of right of private defence of body. The right of private"
+  },
+  "40": {
+    "source_id": "BNS:41",
+    "law": "BNS",
+    "section": "41",
+    "title": "When right of private defence of property extends to causing death. The right of private"
+  },
+  "41": {
+    "source_id": "BNS:42",
+    "law": "BNS",
+    "section": "42",
+    "title": "When such right extends to causing any harm other than death"
+  },
+  "42": {
+    "source_id": "BNS:43",
+    "law": "BNS",
+    "section": "43",
+    "title": "Commencement and continuance of right of private defence of property"
+  },
+  "43": {
+    "source_id": "BNS:44",
+    "law": "BNS",
+    "section": "44",
+    "title": "Right of private defence against deadly assault when there is risk of harm to innocent"
+  },
+  "44": {
+    "source_id": "BNS:45",
+    "law": "BNS",
+    "section": "45",
+    "title": "Abetment of a thing. A person abets the doing of a thing, who"
+  },
+  "45": {
+    "source_id": "BNS:46",
+    "law": "BNS",
+    "section": "46",
+    "title": "Abettor"
+  },
+  "46": {
+    "source_id": "BNS:47",
+    "law": "BNS",
+    "section": "47",
+    "title": "Abetment in India of offences outside India"
+  },
+  "47": {
+    "source_id": "BNS:48",
+    "law": "BNS",
+    "section": "48",
+    "title": "Abetment outside India for offence in India"
+  },
+  "48": {
+    "source_id": "BNS:49",
+    "law": "BNS",
+    "section": "49",
+    "title": "Punishment of abetment if act abetted is committed in consequence and where no express"
+  },
+  "49": {
+    "source_id": "BNS:50",
+    "law": "BNS",
+    "section": "50",
+    "title": "Punishment of abetment if person abetted does act with different intention from that of abettor"
+  },
+  "50": {
+    "source_id": "BNS:51",
+    "law": "BNS",
+    "section": "51",
+    "title": "Liability of abettor when one act abetted and different act done"
+  },
+  "51": {
+    "source_id": "BNS:52",
+    "law": "BNS",
+    "section": "52",
+    "title": "Abettor when liable to cumulative punishment for act abetted and for act done. If the act"
+  },
+  "52": {
+    "source_id": "BNS:53",
+    "law": "BNS",
+    "section": "53",
+    "title": "Liability of abettor for an effect caused by act abetted different from that intended by abettor"
+  },
+  "53": {
+    "source_id": "BNS:54",
+    "law": "BNS",
+    "section": "54",
+    "title": "Abettor present when offence is committed. Whenever any person, who is absent would be"
+  },
+  "54": {
+    "source_id": "BNS:55",
+    "law": "BNS",
+    "section": "55",
+    "title": "Abetment of offence punishable with death or imprisonment for life"
+  },
+  "55": {
+    "source_id": "BNS:56",
+    "law": "BNS",
+    "section": "56",
+    "title": "Abetment of offence punishable with imprisonment. Whoever abets an offence punishable"
+  },
+  "56": {
+    "source_id": "BNS:57",
+    "law": "BNS",
+    "section": "57",
+    "title": "Abetting commission of offence by public or by more than ten persons"
+  },
+  "57": {
+    "source_id": "BNS:58",
+    "law": "BNS",
+    "section": "58",
+    "title": "Concealing design to commit offence punishable with death or imprisonment for life."
+  },
+  "58": {
+    "source_id": "BNS:59",
+    "law": "BNS",
+    "section": "59",
+    "title": "Public servant concealing design to commit offence which it is his duty to prevent."
+  },
+  "59": {
+    "source_id": "BNS:60",
+    "law": "BNS",
+    "section": "60",
+    "title": "Concealing design to commit offence punishable with imprisonment"
+  },
+  "60": {
+    "source_id": "BNS:61",
+    "law": "BNS",
+    "section": "61",
+    "title": "Criminal conspiracy"
+  },
+  "61": {
+    "source_id": "BNS:62",
+    "law": "BNS",
+    "section": "62",
+    "title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment"
+  },
+  "62": {
+    "source_id": "BNS:63",
+    "law": "BNS",
+    "section": "63",
+    "title": "Rape. A man is said to commit \"rape\" if he"
+  },
+  "63": {
+    "source_id": "BNS:64",
+    "law": "BNS",
+    "section": "64",
+    "title": "Punishment for rape. (1) Whoever, except in the cases provided for in sub-section (2),"
+  },
+  "64": {
+    "source_id": "BNS:65",
+    "law": "BNS",
+    "section": "65",
+    "title": "Punishment for rape in certain cases. (1) Whoever, commits rape on a woman under sixteen"
+  },
+  "65": {
+    "source_id": "BNS:66",
+    "law": "BNS",
+    "section": "66",
+    "title": "Punishment for causing death or resulting in persistent vegetative state of victim."
+  },
+  "66": {
+    "source_id": "BNS:67",
+    "law": "BNS",
+    "section": "67",
+    "title": "Sexual intercourse by husband upon his wife during separation. Whoever has sexual"
+  },
+  "67": {
+    "source_id": "BNS:68",
+    "law": "BNS",
+    "section": "68",
+    "title": "Sexual intercourse by a person in authority. Whoever, being"
+  },
+  "68": {
+    "source_id": "BNS:69",
+    "law": "BNS",
+    "section": "69",
+    "title": "Sexual intercourse by employing deceitful means, etc"
+  },
+  "69": {
+    "source_id": "BNS:70",
+    "law": "BNS",
+    "section": "70",
+    "title": "Gang rape. (1) Where a woman is raped by one or more persons constituting a group or acting"
+  },
+  "70": {
+    "source_id": "BNS:71",
+    "law": "BNS",
+    "section": "71",
+    "title": "Punishment for repeat offenders. Whoever has been previously convicted of an offence"
+  },
+  "71": {
+    "source_id": "BNS:72",
+    "law": "BNS",
+    "section": "72",
+    "title": "Disclosure of identity of victim of certain offences, etc"
+  },
+  "72": {
+    "source_id": "BNS:73",
+    "law": "BNS",
+    "section": "73",
+    "title": "Printing or publishing any matter relating to Court proceedings without permission."
+  },
+  "73": {
+    "source_id": "BNS:74",
+    "law": "BNS",
+    "section": "74",
+    "title": "Assault or use of criminal force to woman with intent to outrage her modesty. Whoever"
+  },
+  "74": {
+    "source_id": "BNS:75",
+    "law": "BNS",
+    "section": "75",
+    "title": "Sexual harassment. (1) A man committing any of the following acts:"
+  },
+  "75": {
+    "source_id": "BNS:76",
+    "law": "BNS",
+    "section": "76",
+    "title": "Assault or use of criminal force to woman with intent to disrobe. Whoever assaults or uses"
+  },
+  "76": {
+    "source_id": "BNS:77",
+    "law": "BNS",
+    "section": "77",
+    "title": "Voyeurism"
+  },
+  "77": {
+    "source_id": "BNS:78",
+    "law": "BNS",
+    "section": "78",
+    "title": "Stalking. (1) Any man who"
+  },
+  "78": {
+    "source_id": "BNS:79",
+    "law": "BNS",
+    "section": "79",
+    "title": "Word, gesture or act intended to insult modesty of a woman. Whoever, intending to insult"
+  },
+  "79": {
+    "source_id": "BNS:80",
+    "law": "BNS",
+    "section": "80",
+    "title": "Dowry death"
+  },
+  "80": {
+    "source_id": "BNS:81",
+    "law": "BNS",
+    "section": "81",
+    "title": "Cohabitation caused by man deceitfully inducing belief of lawful marriage. Every man who"
+  },
+  "81": {
+    "source_id": "BNS:82",
+    "law": "BNS",
+    "section": "82",
+    "title": "Marrying again during lifetime of husband or wife. (1) Whoever, having a husband or wife"
+  },
+  "82": {
+    "source_id": "BNS:83",
+    "law": "BNS",
+    "section": "83",
+    "title": "Marriage ceremony fraudulently gone through without lawful marriage. Whoever,"
+  },
+  "83": {
+    "source_id": "BNS:84",
+    "law": "BNS",
+    "section": "84",
+    "title": "Enticing or taking away or detaining with criminal intent a married woman. Whoever"
+  },
+  "84": {
+    "source_id": "BNS:85",
+    "law": "BNS",
+    "section": "85",
+    "title": "Husband or relative of husband of a woman subjecting her to cruelty"
+  },
+  "85": {
+    "source_id": "BNS:86",
+    "law": "BNS",
+    "section": "86",
+    "title": "Cruelty defined. For the purposes of section 85, \"cruelty\" means"
+  },
+  "86": {
+    "source_id": "BNS:87",
+    "law": "BNS",
+    "section": "87",
+    "title": "Kidnapping, abducting or inducing woman to compel her marriage, etc. Whoever kidnaps"
+  },
+  "87": {
+    "source_id": "BNS:88",
+    "law": "BNS",
+    "section": "88",
+    "title": "Causing miscarriage. Whoever voluntarily causes a woman with child to miscarry, shall, if"
+  },
+  "88": {
+    "source_id": "BNS:89",
+    "law": "BNS",
+    "section": "89",
+    "title": "Causing miscarriage without woman's consent"
+  },
+  "89": {
+    "source_id": "BNS:90",
+    "law": "BNS",
+    "section": "90",
+    "title": "Death caused by act done with intent to cause miscarriage"
+  },
+  "90": {
+    "source_id": "BNS:91",
+    "law": "BNS",
+    "section": "91",
+    "title": "Act done with intent to prevent child being born alive or to cause to die after birth."
+  },
+  "91": {
+    "source_id": "BNS:92",
+    "law": "BNS",
+    "section": "92",
+    "title": "Causing death of quick unborn child by act amounting to culpable homicide. Whoever"
+  },
+  "92": {
+    "source_id": "BNS:93",
+    "law": "BNS",
+    "section": "93",
+    "title": "Exposure and abandonment of child under twelve years of age, by parent or person having"
+  },
+  "93": {
+    "source_id": "BNS:94",
+    "law": "BNS",
+    "section": "94",
+    "title": "Concealment of birth by secret disposal of dead body"
+  },
+  "94": {
+    "source_id": "BNS:95",
+    "law": "BNS",
+    "section": "95",
+    "title": "Hiring, employing or engaging a child to commit an offence"
+  },
+  "95": {
+    "source_id": "BNS:96",
+    "law": "BNS",
+    "section": "96",
+    "title": "Procuration of child. Whoever, by any means whatsoever, induces any child to go from any"
+  },
+  "96": {
+    "source_id": "BNS:97",
+    "law": "BNS",
+    "section": "97",
+    "title": "Kidnapping or abducting child under ten years of age with intent to steal from its person."
+  },
+  "97": {
+    "source_id": "BNS:98",
+    "law": "BNS",
+    "section": "98",
+    "title": "Selling child for purposes of prostitution, etc. Whoever sells, lets to hire, or otherwise"
+  },
+  "98": {
+    "source_id": "BNS:99",
+    "law": "BNS",
+    "section": "99",
+    "title": "Buying child for purposes of prostitution, etc. Whoever buys, hires or otherwise obtains"
+  },
+  "99": {
+    "source_id": "BNS:100",
+    "law": "BNS",
+    "section": "100",
+    "title": "Culpable homicide. Whoever causes death by doing an act with the intention of causing"
+  },
+  "100": {
+    "source_id": "BNS:101",
+    "law": "BNS",
+    "section": "101",
+    "title": "Murder. Except in the cases hereinafter excepted, culpable homicide is murder,"
+  },
+  "101": {
+    "source_id": "BNS:102",
+    "law": "BNS",
+    "section": "102",
+    "title": "Culpable homicide by causing death of person other than person whose death was"
+  },
+  "102": {
+    "source_id": "BNS:103",
+    "law": "BNS",
+    "section": "103",
+    "title": "Punishment for murder"
+  },
+  "103": {
+    "source_id": "BNS:104",
+    "law": "BNS",
+    "section": "104",
+    "title": "Punishment for murder by life-convict"
+  },
+  "104": {
+    "source_id": "BNS:105",
+    "law": "BNS",
+    "section": "105",
+    "title": "Punishment for culpable homicide not amounting to murder. Whoever commits culpable"
+  },
+  "105": {
+    "source_id": "BNS:106",
+    "law": "BNS",
+    "section": "106",
+    "title": "Causing death by negligence"
+  },
+  "106": {
+    "source_id": "BNS:107",
+    "law": "BNS",
+    "section": "107",
+    "title": "Abetment of suicide of child or person of unsound mind"
+  },
+  "107": {
+    "source_id": "BNS:108",
+    "law": "BNS",
+    "section": "108",
+    "title": "Abetment of suicide. If any person commits suicide, whoever abets the commission of such"
+  },
+  "108": {
+    "source_id": "BNS:109",
+    "law": "BNS",
+    "section": "109",
+    "title": "Attempt to murder"
+  },
+  "109": {
+    "source_id": "BNS:110",
+    "law": "BNS",
+    "section": "110",
+    "title": "Attempt to commit culpable homicide"
+  },
+  "110": {
+    "source_id": "BNS:111",
+    "law": "BNS",
+    "section": "111",
+    "title": "Organised crime. (1) Any continuing unlawful activity including kidnapping, robbery,"
+  },
+  "111": {
+    "source_id": "BNS:112",
+    "law": "BNS",
+    "section": "112",
+    "title": "Petty organised crime"
+  },
+  "112": {
+    "source_id": "BNS:113",
+    "law": "BNS",
+    "section": "113",
+    "title": "Terrorist act"
+  },
+  "113": {
+    "source_id": "BNS:114",
+    "law": "BNS",
+    "section": "114",
+    "title": "Hurt. Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt."
+  },
+  "114": {
+    "source_id": "BNS:115",
+    "law": "BNS",
+    "section": "115",
+    "title": "Voluntarily causing hurt. (1) Whoever does any act with the intention of thereby causing"
+  },
+  "115": {
+    "source_id": "BNS:116",
+    "law": "BNS",
+    "section": "116",
+    "title": "Grievous hurt. The following kinds of hurt only are designated as \"grievous\", namely:"
+  },
+  "116": {
+    "source_id": "BNS:117",
+    "law": "BNS",
+    "section": "117",
+    "title": "Voluntarily causing grievous hurt. (1) Whoever voluntarily causes hurt, if the hurt which he"
+  },
+  "117": {
+    "source_id": "BNS:118",
+    "law": "BNS",
+    "section": "118",
+    "title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means. (1) Whoever,"
+  },
+  "118": {
+    "source_id": "BNS:119",
+    "law": "BNS",
+    "section": "119",
+    "title": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal"
+  },
+  "119": {
+    "source_id": "BNS:120",
+    "law": "BNS",
+    "section": "120",
+    "title": "Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property"
+  },
+  "120": {
+    "source_id": "BNS:121",
+    "law": "BNS",
+    "section": "121",
+    "title": "Voluntarily causing hurt or grievous hurt to deter public servant from his duty. (1)"
+  },
+  "121": {
+    "source_id": "BNS:122",
+    "law": "BNS",
+    "section": "122",
+    "title": "Voluntarily causing hurt or grievous hurt on provocation. (1) Whoever voluntarily causes"
+  },
+  "122": {
+    "source_id": "BNS:123",
+    "law": "BNS",
+    "section": "123",
+    "title": "Causing hurt by means of poison, etc., with intent to commit an offence. Whoever"
+  },
+  "123": {
+    "source_id": "BNS:124",
+    "law": "BNS",
+    "section": "124",
+    "title": "Voluntarily causing grievous hurt by use of acid, etc"
+  },
+  "124": {
+    "source_id": "BNS:125",
+    "law": "BNS",
+    "section": "125",
+    "title": "Act endangering life or personal safety of others"
+  },
+  "125": {
+    "source_id": "BNS:126",
+    "law": "BNS",
+    "section": "126",
+    "title": "Wrongful restraint. (1) Whoever voluntarily obstructs any person so as to prevent that person"
+  },
+  "126": {
+    "source_id": "BNS:127",
+    "law": "BNS",
+    "section": "127",
+    "title": "Wrongful confinement"
+  },
+  "127": {
+    "source_id": "BNS:128",
+    "law": "BNS",
+    "section": "128",
+    "title": "Force"
+  },
+  "128": {
+    "source_id": "BNS:129",
+    "law": "BNS",
+    "section": "129",
+    "title": "Criminal force. Whoever intentionally uses force to any person, without that person's"
+  },
+  "129": {
+    "source_id": "BNS:130",
+    "law": "BNS",
+    "section": "130",
+    "title": "Assault. Whoever makes any gesture, or any preparation intending or knowing it to be likely"
+  },
+  "130": {
+    "source_id": "BNS:131",
+    "law": "BNS",
+    "section": "131",
+    "title": "Punishment for assault or criminal force otherwise than on grave provocation. Whoever"
+  },
+  "131": {
+    "source_id": "BNS:132",
+    "law": "BNS",
+    "section": "132",
+    "title": "Assault or criminal force to deter public servant from discharge of his duty. Whoever"
+  },
+  "132": {
+    "source_id": "BNS:133",
+    "law": "BNS",
+    "section": "133",
+    "title": "Assault or criminal force with intent to dishonour person, otherwise than on grave"
+  },
+  "133": {
+    "source_id": "BNS:134",
+    "law": "BNS",
+    "section": "134",
+    "title": "Assault or criminal force in attempt to commit theft of property carried by a person."
+  },
+  "134": {
+    "source_id": "BNS:135",
+    "law": "BNS",
+    "section": "135",
+    "title": "Assault or criminal force in attempt to wrongfully confine a person"
+  },
+  "135": {
+    "source_id": "BNS:136",
+    "law": "BNS",
+    "section": "136",
+    "title": "Assault or criminal force on grave provocation"
+  },
+  "136": {
+    "source_id": "BNS:137",
+    "law": "BNS",
+    "section": "137",
+    "title": "Kidnapping"
+  },
+  "137": {
+    "source_id": "BNS:138",
+    "law": "BNS",
+    "section": "138",
+    "title": "Abduction. Whoever by force compels, or by any deceitful means induces, any person to go"
+  },
+  "138": {
+    "source_id": "BNS:139",
+    "law": "BNS",
+    "section": "139",
+    "title": "Kidnapping or maiming a child for purposes of begging. (1) Whoever kidnaps any child or,"
+  },
+  "139": {
+    "source_id": "BNS:140",
+    "law": "BNS",
+    "section": "140",
+    "title": "Kidnapping or abducting in order to murder or for ransom, etc. (1) Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in"
+  },
+  "140": {
+    "source_id": "BNS:141",
+    "law": "BNS",
+    "section": "141",
+    "title": "Importation of girl or boy from foreign country. Whoever imports into India from any"
+  },
+  "141": {
+    "source_id": "BNS:142",
+    "law": "BNS",
+    "section": "142",
+    "title": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person."
+  },
+  "142": {
+    "source_id": "BNS:143",
+    "law": "BNS",
+    "section": "143",
+    "title": "Trafficking of person. (1) Whoever, for the purpose of exploitation recruits, transports,"
+  },
+  "143": {
+    "source_id": "BNS:144",
+    "law": "BNS",
+    "section": "144",
+    "title": "Exploitation of a trafficked person. (1) Whoever, knowingly or having reason to believe that"
+  },
+  "144": {
+    "source_id": "BNS:145",
+    "law": "BNS",
+    "section": "145",
+    "title": "Habitual dealing in slaves. Whoever habitually imports, exports, removes, buys, sells, traffics"
+  },
+  "145": {
+    "source_id": "BNS:146",
+    "law": "BNS",
+    "section": "146",
+    "title": "Unlawful compulsory labour"
+  },
+  "146": {
+    "source_id": "BNS:147",
+    "law": "BNS",
+    "section": "147",
+    "title": "Waging, or attempting to wage war, or abetting waging of war, against Government of India"
+  },
+  "147": {
+    "source_id": "BNS:148",
+    "law": "BNS",
+    "section": "148",
+    "title": "Conspiracy to commit offences punishable by section 147"
+  },
+  "148": {
+    "source_id": "BNS:149",
+    "law": "BNS",
+    "section": "149",
+    "title": "Collecting arms, etc., with intention of waging war against Government of India."
+  },
+  "149": {
+    "source_id": "BNS:150",
+    "law": "BNS",
+    "section": "150",
+    "title": "Concealing with intent to facilitate design to wage war. Whoever by any act, or by any"
+  },
+  "150": {
+    "source_id": "BNS:151",
+    "law": "BNS",
+    "section": "151",
+    "title": "Assaulting President, Governor, etc., with intent to compel or restrain exercise of any"
+  },
+  "151": {
+    "source_id": "BNS:152",
+    "law": "BNS",
+    "section": "152",
+    "title": "Act endangering sovereignty, unity and integrity of India"
+  },
+  "152": {
+    "source_id": "BNS:153",
+    "law": "BNS",
+    "section": "153",
+    "title": "Waging war against Government of any foreign State at peace with Government of India"
+  },
+  "153": {
+    "source_id": "BNS:154",
+    "law": "BNS",
+    "section": "154",
+    "title": "Committing depredation on territories of foreign State at peace with Government of India"
+  },
+  "154": {
+    "source_id": "BNS:155",
+    "law": "BNS",
+    "section": "155",
+    "title": "Receiving property taken by war or depredation mentioned in sections 153 and 154."
+  },
+  "155": {
+    "source_id": "BNS:156",
+    "law": "BNS",
+    "section": "156",
+    "title": "Public servant voluntarily allowing prisoner of State or war to escape"
+  },
+  "156": {
+    "source_id": "BNS:157",
+    "law": "BNS",
+    "section": "157",
+    "title": "Public servant negligently suffering such prisoner to escape. Whoever, being a public"
+  },
+  "157": {
+    "source_id": "BNS:158",
+    "law": "BNS",
+    "section": "158",
+    "title": "Aiding escape of, rescuing or harbouring such prisoner. Whoever knowingly aids or assists"
+  },
+  "158": {
+    "source_id": "BNS:159",
+    "law": "BNS",
+    "section": "159",
+    "title": "Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty."
+  },
+  "159": {
+    "source_id": "BNS:160",
+    "law": "BNS",
+    "section": "160",
+    "title": "Abetment of mutiny, if mutiny is committed in consequence thereof"
+  },
+  "160": {
+    "source_id": "BNS:161",
+    "law": "BNS",
+    "section": "161",
+    "title": "Abetment of assault by soldier, sailor or airman on his superior officer, when in execution"
+  },
+  "161": {
+    "source_id": "BNS:162",
+    "law": "BNS",
+    "section": "162",
+    "title": "Abetment of such assault, if assault committed. Whoever abets an assault by an officer,"
+  },
+  "162": {
+    "source_id": "BNS:163",
+    "law": "BNS",
+    "section": "163",
+    "title": "Abetment of desertion of soldier, sailor or airman. Whoever abets the desertion of any"
+  },
+  "163": {
+    "source_id": "BNS:164",
+    "law": "BNS",
+    "section": "164",
+    "title": "Harbouring deserter"
+  },
+  "164": {
+    "source_id": "BNS:165",
+    "law": "BNS",
+    "section": "165",
+    "title": "Deserter concealed on board merchant vessel through negligence of master"
+  },
+  "165": {
+    "source_id": "BNS:166",
+    "law": "BNS",
+    "section": "166",
+    "title": "Abetment of act of insubordination by soldier, sailor or airman. Whoever abets what he"
+  },
+  "166": {
+    "source_id": "BNS:167",
+    "law": "BNS",
+    "section": "167",
+    "title": "Persons subject to certain Acts. No person subject to the Air Force Act, 1950 (45 of 1950),"
+  },
+  "167": {
+    "source_id": "BNS:168",
+    "law": "BNS",
+    "section": "168",
+    "title": "Wearing garb or carrying token used by soldier, sailor or airman"
+  },
+  "168": {
+    "source_id": "BNS:169",
+    "law": "BNS",
+    "section": "169",
+    "title": "Candidate, electoral right defined. For the purposes of this Chapter"
+  },
+  "169": {
+    "source_id": "BNS:170",
+    "law": "BNS",
+    "section": "170",
+    "title": "Bribery. (1) Whoever"
+  },
+  "170": {
+    "source_id": "BNS:171",
+    "law": "BNS",
+    "section": "171",
+    "title": "Undue influence at elections"
+  },
+  "171": {
+    "source_id": "BNS:172",
+    "law": "BNS",
+    "section": "172",
+    "title": "Personation at elections"
+  },
+  "172": {
+    "source_id": "BNS:173",
+    "law": "BNS",
+    "section": "173",
+    "title": "Punishment for bribery"
+  },
+  "173": {
+    "source_id": "BNS:174",
+    "law": "BNS",
+    "section": "174",
+    "title": "Punishment for undue influence or personation at an election"
+  },
+  "174": {
+    "source_id": "BNS:175",
+    "law": "BNS",
+    "section": "175",
+    "title": "False statement in connection with an election"
+  },
+  "175": {
+    "source_id": "BNS:176",
+    "law": "BNS",
+    "section": "176",
+    "title": "Illegal payments in connection with an election. Whoever without the general or special"
+  },
+  "176": {
+    "source_id": "BNS:177",
+    "law": "BNS",
+    "section": "177",
+    "title": "Failure to keep election accounts"
+  },
+  "177": {
+    "source_id": "BNS:178",
+    "law": "BNS",
+    "section": "178",
+    "title": "Counterfeiting coin, Government stamps, currency-notes or bank-notes. Whoever"
+  },
+  "178": {
+    "source_id": "BNS:179",
+    "law": "BNS",
+    "section": "179",
+    "title": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-"
+  },
+  "179": {
+    "source_id": "BNS:180",
+    "law": "BNS",
+    "section": "180",
+    "title": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-"
+  },
+  "180": {
+    "source_id": "BNS:181",
+    "law": "BNS",
+    "section": "181",
+    "title": "Making or possessing instruments or materials for forging or counterfeiting coin,"
+  },
+  "181": {
+    "source_id": "BNS:182",
+    "law": "BNS",
+    "section": "182",
+    "title": "Making or using documents resembling currency-notes or bank-notes. (1) Whoever"
+  },
+  "182": {
+    "source_id": "BNS:183",
+    "law": "BNS",
+    "section": "183",
+    "title": "Effacing writing from substance bearing Government stamp, or removing from document"
+  },
+  "183": {
+    "source_id": "BNS:184",
+    "law": "BNS",
+    "section": "184",
+    "title": "Using Government stamp known to have been before used"
+  },
+  "184": {
+    "source_id": "BNS:185",
+    "law": "BNS",
+    "section": "185",
+    "title": "Erasure of mark denoting that stamp has been used. Whoever, fraudulently or with intent"
+  },
+  "185": {
+    "source_id": "BNS:186",
+    "law": "BNS",
+    "section": "186",
+    "title": "Prohibition of fictitious stamps. (1) Whoever"
+  },
+  "186": {
+    "source_id": "BNS:187",
+    "law": "BNS",
+    "section": "187",
+    "title": "Person employed in mint causing coin to be of different weight or composition from that"
+  },
+  "187": {
+    "source_id": "BNS:188",
+    "law": "BNS",
+    "section": "188",
+    "title": "Unlawfully taking coining instrument from mint. Whoever, without lawful authority, takes"
+  },
+  "188": {
+    "source_id": "BNS:189",
+    "law": "BNS",
+    "section": "189",
+    "title": "Unlawful assembly. (1) An assembly of five or more persons is designated an \"unlawful"
+  },
+  "189": {
+    "source_id": "BNS:190",
+    "law": "BNS",
+    "section": "190",
+    "title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object"
+  },
+  "190": {
+    "source_id": "BNS:191",
+    "law": "BNS",
+    "section": "191",
+    "title": "Rioting. (1) Whenever force or violence is used by an unlawful assembly, or by any member"
+  },
+  "191": {
+    "source_id": "BNS:192",
+    "law": "BNS",
+    "section": "192",
+    "title": "Wantonly giving provocation with intent to cause riot-if rioting be committed; if not"
+  },
+  "192": {
+    "source_id": "BNS:193",
+    "law": "BNS",
+    "section": "193",
+    "title": "Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes"
+  },
+  "193": {
+    "source_id": "BNS:194",
+    "law": "BNS",
+    "section": "194",
+    "title": "Affray. (1) When two or more persons, by fighting in a public place, disturb the public peace,"
+  },
+  "194": {
+    "source_id": "BNS:195",
+    "law": "BNS",
+    "section": "195",
+    "title": "Assaulting or obstructing public servant when suppressing riot, etc. (1) Whoever assaults"
+  },
+  "195": {
+    "source_id": "BNS:196",
+    "law": "BNS",
+    "section": "196",
+    "title": "Promoting enmity between different groups on grounds of religion, race, place of birth,"
+  },
+  "196": {
+    "source_id": "BNS:197",
+    "law": "BNS",
+    "section": "197",
+    "title": "Imputations, assertions prejudicial to national integration. (1) Whoever, by words either"
+  },
+  "197": {
+    "source_id": "BNS:198",
+    "law": "BNS",
+    "section": "198",
+    "title": "Public servant disobeying law, with intent to cause injury to any person"
+  },
+  "198": {
+    "source_id": "BNS:199",
+    "law": "BNS",
+    "section": "199",
+    "title": "Public servant disobeying direction under law. Whoever, being a public servant,"
+  },
+  "199": {
+    "source_id": "BNS:200",
+    "law": "BNS",
+    "section": "200",
+    "title": "Punishment for non-treatment of victim"
+  },
+  "200": {
+    "source_id": "BNS:201",
+    "law": "BNS",
+    "section": "201",
+    "title": "Public servant framing an incorrect document with intent to cause injury. Whoever,"
+  },
+  "201": {
+    "source_id": "BNS:202",
+    "law": "BNS",
+    "section": "202",
+    "title": "Public servant unlawfully engaging in trade. Whoever, being a public servant, and being"
+  },
+  "202": {
+    "source_id": "BNS:203",
+    "law": "BNS",
+    "section": "203",
+    "title": "Public servant unlawfully buying or bidding for property. Whoever, being a public"
+  },
+  "203": {
+    "source_id": "BNS:204",
+    "law": "BNS",
+    "section": "204",
+    "title": "Personating a public servant. Whoever pretends to hold any particular office as a public"
+  },
+  "204": {
+    "source_id": "BNS:205",
+    "law": "BNS",
+    "section": "205",
+    "title": "Wearing garb or carrying token used by public servant with fraudulent intent. Whoever,"
+  },
+  "205": {
+    "source_id": "BNS:206",
+    "law": "BNS",
+    "section": "206",
+    "title": "Absconding to avoid service of summons or other proceeding. Whoever absconds in order"
+  },
+  "206": {
+    "source_id": "BNS:207",
+    "law": "BNS",
+    "section": "207",
+    "title": "Preventing service of summons or other proceeding, or preventing publication thereof."
+  },
+  "207": {
+    "source_id": "BNS:208",
+    "law": "BNS",
+    "section": "208",
+    "title": "Non-attendance in obedience to an order from public servant. Whoever, being legally"
+  },
+  "208": {
+    "source_id": "BNS:209",
+    "law": "BNS",
+    "section": "209",
+    "title": "Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik"
+  },
+  "209": {
+    "source_id": "BNS:210",
+    "law": "BNS",
+    "section": "210",
+    "title": "Omission to produce document or electronic record to public servant by person legally"
+  },
+  "210": {
+    "source_id": "BNS:211",
+    "law": "BNS",
+    "section": "211",
+    "title": "Omission to give notice or information to public servant by person legally bound to give"
+  },
+  "211": {
+    "source_id": "BNS:212",
+    "law": "BNS",
+    "section": "212",
+    "title": "Furnishing false information. Whoever, being legally bound to furnish information on any"
+  },
+  "212": {
+    "source_id": "BNS:213",
+    "law": "BNS",
+    "section": "213",
+    "title": "Refusing oath or affirmation when duly required by public servant to make it. Whoever"
+  },
+  "213": {
+    "source_id": "BNS:214",
+    "law": "BNS",
+    "section": "214",
+    "title": "Refusing to answer public servant authorised to question"
+  },
+  "214": {
+    "source_id": "BNS:215",
+    "law": "BNS",
+    "section": "215",
+    "title": "Refusing to sign statement. Whoever refuses to sign any statement made by him, when"
+  },
+  "215": {
+    "source_id": "BNS:216",
+    "law": "BNS",
+    "section": "216",
+    "title": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation"
+  },
+  "216": {
+    "source_id": "BNS:217",
+    "law": "BNS",
+    "section": "217",
+    "title": "False information, with intent to cause public servant to use his lawful power to injury of another person Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant"
+  },
+  "217": {
+    "source_id": "BNS:218",
+    "law": "BNS",
+    "section": "218",
+    "title": "Resistance to taking of property by lawful authority of a public servant. Whoever offers"
+  },
+  "218": {
+    "source_id": "BNS:219",
+    "law": "BNS",
+    "section": "219",
+    "title": "Obstructing sale of property offered for sale by authority of public servant. Whoever"
+  },
+  "219": {
+    "source_id": "BNS:220",
+    "law": "BNS",
+    "section": "220",
+    "title": "Illegal purchase or bid for property offered for sale by authority of public servant."
+  },
+  "220": {
+    "source_id": "BNS:221",
+    "law": "BNS",
+    "section": "221",
+    "title": "Obstructing public servant in discharge of public functions. Whoever voluntarily obstructs"
+  },
+  "221": {
+    "source_id": "BNS:222",
+    "law": "BNS",
+    "section": "222",
+    "title": "Omission to assist public servant when bound by law to give assistance. Whoever, being"
+  },
+  "222": {
+    "source_id": "BNS:223",
+    "law": "BNS",
+    "section": "223",
+    "title": "Disobedience to order duly promulgated by public servant"
+  },
+  "223": {
+    "source_id": "BNS:224",
+    "law": "BNS",
+    "section": "224",
+    "title": "Threat of injury to public servant. Whoever holds out any threat of injury to any public"
+  },
+  "224": {
+    "source_id": "BNS:225",
+    "law": "BNS",
+    "section": "225",
+    "title": "Threat of injury to induce person to refrain from applying for protection to public"
+  },
+  "225": {
+    "source_id": "BNS:226",
+    "law": "BNS",
+    "section": "226",
+    "title": "Attempt to commit suicide to compel or restrain exercise of lawful power. Whoever"
+  },
+  "226": {
+    "source_id": "BNS:227",
+    "law": "BNS",
+    "section": "227",
+    "title": "Giving false evidence"
+  },
+  "227": {
+    "source_id": "BNS:228",
+    "law": "BNS",
+    "section": "228",
+    "title": "Fabricating false evidence. Whoever causes any circumstance to exist or makes any false"
+  },
+  "228": {
+    "source_id": "BNS:229",
+    "law": "BNS",
+    "section": "229",
+    "title": "Punishment for false evidence. (1) Whoever intentionally gives false evidence in any stage"
+  },
+  "229": {
+    "source_id": "BNS:230",
+    "law": "BNS",
+    "section": "230",
+    "title": "Giving or fabricating false evidence with intent to procure conviction of capital offence."
+  },
+  "230": {
+    "source_id": "BNS:231",
+    "law": "BNS",
+    "section": "231",
+    "title": "Giving or fabricating false evidence with intent to procure conviction of offence punishable"
+  },
+  "231": {
+    "source_id": "BNS:232",
+    "law": "BNS",
+    "section": "232",
+    "title": "Threatening any person to give false evidence. (1) Whoever threatens another with any"
+  },
+  "232": {
+    "source_id": "BNS:233",
+    "law": "BNS",
+    "section": "233",
+    "title": "Using evidence known to be false"
+  },
+  "233": {
+    "source_id": "BNS:234",
+    "law": "BNS",
+    "section": "234",
+    "title": "Issuing or signing false certificate"
+  },
+  "234": {
+    "source_id": "BNS:235",
+    "law": "BNS",
+    "section": "235",
+    "title": "Using as true a certificate known to be false. Whoever corruptly uses or attempts to use any"
+  },
+  "235": {
+    "source_id": "BNS:236",
+    "law": "BNS",
+    "section": "236",
+    "title": "False statement made in declaration which is by law receivable as evidence"
+  },
+  "236": {
+    "source_id": "BNS:237",
+    "law": "BNS",
+    "section": "237",
+    "title": "Using as true such declaration knowing it to be false"
+  },
+  "237": {
+    "source_id": "BNS:238",
+    "law": "BNS",
+    "section": "238",
+    "title": "Causing disappearance of evidence of offence, or giving false information to screen"
+  },
+  "238": {
+    "source_id": "BNS:239",
+    "law": "BNS",
+    "section": "239",
+    "title": "Intentional omission to give information of offence by person bound to inform. Whoever,"
+  },
+  "239": {
+    "source_id": "BNS:240",
+    "law": "BNS",
+    "section": "240",
+    "title": "Giving false information respecting an offence committed. Whoever, knowing or having"
+  },
+  "240": {
+    "source_id": "BNS:241",
+    "law": "BNS",
+    "section": "241",
+    "title": "Destruction of document or electronic record to prevent its production as evidence."
+  },
+  "241": {
+    "source_id": "BNS:242",
+    "law": "BNS",
+    "section": "242",
+    "title": "False personation for purpose of act or proceeding in suit or prosecution. Whoever falsely"
+  },
+  "242": {
+    "source_id": "BNS:243",
+    "law": "BNS",
+    "section": "243",
+    "title": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution"
+  },
+  "243": {
+    "source_id": "BNS:244",
+    "law": "BNS",
+    "section": "244",
+    "title": "Fraudulent claim to property to prevent its seizure as forfeited or in execution. Whoever"
+  },
+  "244": {
+    "source_id": "BNS:245",
+    "law": "BNS",
+    "section": "245",
+    "title": "Fraudulently suffering decree for sum not due"
+  },
+  "245": {
+    "source_id": "BNS:246",
+    "law": "BNS",
+    "section": "246",
+    "title": "Dishonestly making false claim in Court"
+  },
+  "246": {
+    "source_id": "BNS:247",
+    "law": "BNS",
+    "section": "247",
+    "title": "Fraudulently obtaining decree for sum not due"
+  },
+  "247": {
+    "source_id": "BNS:248",
+    "law": "BNS",
+    "section": "248",
+    "title": "False charge of offence made with intent to injure"
+  },
+  "248": {
+    "source_id": "BNS:249",
+    "law": "BNS",
+    "section": "249",
+    "title": "Harbouring offender"
+  },
+  "249": {
+    "source_id": "BNS:250",
+    "law": "BNS",
+    "section": "250",
+    "title": "Taking gift, etc., to screen an offender from punishment"
+  },
+  "250": {
+    "source_id": "BNS:251",
+    "law": "BNS",
+    "section": "251",
+    "title": "Offering gift or restoration of property in consideration of screening offender. Whoever"
+  },
+  "251": {
+    "source_id": "BNS:252",
+    "law": "BNS",
+    "section": "252",
+    "title": "Taking gift to help to recover stolen property, etc"
+  },
+  "252": {
+    "source_id": "BNS:253",
+    "law": "BNS",
+    "section": "253",
+    "title": "Harbouring offender who has escaped from custody or whose apprehension has been"
+  },
+  "253": {
+    "source_id": "BNS:254",
+    "law": "BNS",
+    "section": "254",
+    "title": "Penalty for harbouring robbers or dacoits. Whoever, knowing or having reason to believe"
+  },
+  "254": {
+    "source_id": "BNS:255",
+    "law": "BNS",
+    "section": "255",
+    "title": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture"
+  },
+  "255": {
+    "source_id": "BNS:256",
+    "law": "BNS",
+    "section": "256",
+    "title": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture"
+  },
+  "256": {
+    "source_id": "BNS:257",
+    "law": "BNS",
+    "section": "257",
+    "title": "Public servant in judicial proceeding corruptly making report, etc., contrary to law."
+  },
+  "257": {
+    "source_id": "BNS:258",
+    "law": "BNS",
+    "section": "258",
+    "title": "Commitment for trial or confinement by person having authority who knows that he is"
+  },
+  "258": {
+    "source_id": "BNS:259",
+    "law": "BNS",
+    "section": "259",
+    "title": "Intentional omission to apprehend on part of public servant bound to apprehend."
+  },
+  "259": {
+    "source_id": "BNS:260",
+    "law": "BNS",
+    "section": "260",
+    "title": "Intentional omission to apprehend on part of public servant bound to apprehend person"
+  },
+  "260": {
+    "source_id": "BNS:261",
+    "law": "BNS",
+    "section": "261",
+    "title": "Escape from confinement or custody negligently suffered by public servant. Whoever,"
+  },
+  "261": {
+    "source_id": "BNS:262",
+    "law": "BNS",
+    "section": "262",
+    "title": "Resistance or obstruction by a person to his lawful apprehension. Whoever intentionally"
+  },
+  "262": {
+    "source_id": "BNS:263",
+    "law": "BNS",
+    "section": "263",
+    "title": "Resistance or obstruction to lawful apprehension of another person. Whoever,"
+  },
+  "263": {
+    "source_id": "BNS:264",
+    "law": "BNS",
+    "section": "264",
+    "title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not"
+  },
+  "264": {
+    "source_id": "BNS:265",
+    "law": "BNS",
+    "section": "265",
+    "title": "Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise"
+  },
+  "265": {
+    "source_id": "BNS:266",
+    "law": "BNS",
+    "section": "266",
+    "title": "Violation of condition of remission of punishment. Whoever, having accepted any"
+  },
+  "266": {
+    "source_id": "BNS:267",
+    "law": "BNS",
+    "section": "267",
+    "title": "Intentional insult or interruption to public servant sitting in judicial proceeding."
+  },
+  "267": {
+    "source_id": "BNS:268",
+    "law": "BNS",
+    "section": "268",
+    "title": "Personation of assessor"
+  },
+  "268": {
+    "source_id": "BNS:269",
+    "law": "BNS",
+    "section": "269",
+    "title": "Failure by person released on bail bond or bond to appear in Court. Whoever, having"
+  },
+  "269": {
+    "source_id": "BNS:270",
+    "law": "BNS",
+    "section": "270",
+    "title": "Public nuisance"
+  },
+  "270": {
+    "source_id": "BNS:271",
+    "law": "BNS",
+    "section": "271",
+    "title": "Negligent act likely to spread infection of disease dangerous to life"
+  },
+  "271": {
+    "source_id": "BNS:272",
+    "law": "BNS",
+    "section": "272",
+    "title": "Malignant act likely to spread infection of disease dangerous to life. Whoever malignantly"
+  },
+  "272": {
+    "source_id": "BNS:273",
+    "law": "BNS",
+    "section": "273",
+    "title": "Disobedience to quarantine rule"
+  },
+  "273": {
+    "source_id": "BNS:274",
+    "law": "BNS",
+    "section": "274",
+    "title": "Adulteration of food or drink intended for sale"
+  },
+  "274": {
+    "source_id": "BNS:275",
+    "law": "BNS",
+    "section": "275",
+    "title": "Sale of noxious food or drink. Whoever sells, or offers or exposes for sale, as food or drink,"
+  },
+  "275": {
+    "source_id": "BNS:276",
+    "law": "BNS",
+    "section": "276",
+    "title": "Adulteration of drugs"
+  },
+  "276": {
+    "source_id": "BNS:277",
+    "law": "BNS",
+    "section": "277",
+    "title": "Sale of adulterated drugs. Whoever, knowing any drug or medical preparation to have been"
+  },
+  "277": {
+    "source_id": "BNS:278",
+    "law": "BNS",
+    "section": "278",
+    "title": "Sale of drug as a different drug or preparation"
+  },
+  "278": {
+    "source_id": "BNS:279",
+    "law": "BNS",
+    "section": "279",
+    "title": "Fouling water of public spring or reservoir. Whoever voluntarily corrupts or fouls the water"
+  },
+  "279": {
+    "source_id": "BNS:280",
+    "law": "BNS",
+    "section": "280",
+    "title": "Making atmosphere noxious to health. Whoever voluntarily vitiates the atmosphere in any"
+  },
+  "280": {
+    "source_id": "BNS:281",
+    "law": "BNS",
+    "section": "281",
+    "title": "Rash driving or riding on a public way. Whoever drives any vehicle, or rides, on any public"
+  },
+  "281": {
+    "source_id": "BNS:282",
+    "law": "BNS",
+    "section": "282",
+    "title": "Rash navigation of vessel. Whoever navigates any vessel in a manner so rash or negligent as"
+  },
+  "282": {
+    "source_id": "BNS:283",
+    "law": "BNS",
+    "section": "283",
+    "title": "Exhibition of false light, mark or buoy. Whoever exhibits any false light, mark or buoy,"
+  },
+  "283": {
+    "source_id": "BNS:284",
+    "law": "BNS",
+    "section": "284",
+    "title": "Conveying person by water for hire in unsafe or overloaded vessel"
+  },
+  "284": {
+    "source_id": "BNS:285",
+    "law": "BNS",
+    "section": "285",
+    "title": "Danger or obstruction in public way or line of navigation"
+  },
+  "285": {
+    "source_id": "BNS:286",
+    "law": "BNS",
+    "section": "286",
+    "title": "Negligent conduct with respect to poisonous substance. Whoever does, with any poisonous"
+  },
+  "286": {
+    "source_id": "BNS:287",
+    "law": "BNS",
+    "section": "287",
+    "title": "Negligent conduct with respect to fire or combustible matter"
+  },
+  "287": {
+    "source_id": "BNS:288",
+    "law": "BNS",
+    "section": "288",
+    "title": "Negligent conduct with respect to explosive substance. Whoever does, with any explosive"
+  },
+  "288": {
+    "source_id": "BNS:289",
+    "law": "BNS",
+    "section": "289",
+    "title": "Negligent conduct with respect to machinery. Whoever does, with any machinery, any act"
+  },
+  "289": {
+    "source_id": "BNS:290",
+    "law": "BNS",
+    "section": "290",
+    "title": "Negligent conduct with respect to pulling down, repairing or constructing buildings, etc."
+  },
+  "290": {
+    "source_id": "BNS:291",
+    "law": "BNS",
+    "section": "291",
+    "title": "Negligent conduct with respect to animal. Whoever knowingly or negligently omits to take"
+  },
+  "291": {
+    "source_id": "BNS:292",
+    "law": "BNS",
+    "section": "292",
+    "title": "Punishment for public nuisance in cases not otherwise provided for"
+  },
+  "292": {
+    "source_id": "BNS:293",
+    "law": "BNS",
+    "section": "293",
+    "title": "Continuance of nuisance after injunction to discontinue"
+  },
+  "293": {
+    "source_id": "BNS:294",
+    "law": "BNS",
+    "section": "294",
+    "title": "Sale, etc., of obscene books, etc. (1) For the purposes of sub-section (2), a book, pamphlet,"
+  },
+  "294": {
+    "source_id": "BNS:295",
+    "law": "BNS",
+    "section": "295",
+    "title": "Sale, etc., of obscene objects to child"
+  },
+  "295": {
+    "source_id": "BNS:296",
+    "law": "BNS",
+    "section": "296",
+    "title": "Obscene acts and songs. Whoever, to the annoyance of others,"
+  },
+  "296": {
+    "source_id": "BNS:297",
+    "law": "BNS",
+    "section": "297",
+    "title": "Keeping lottery office. (1) Whoever keeps any office or place for the purpose of drawing any"
+  },
+  "297": {
+    "source_id": "BNS:298",
+    "law": "BNS",
+    "section": "298",
+    "title": "Injuring or defiling place of worship with intent to insult religion of any class. Whoever"
+  },
+  "298": {
+    "source_id": "BNS:299",
+    "law": "BNS",
+    "section": "299",
+    "title": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs"
+  },
+  "299": {
+    "source_id": "BNS:300",
+    "law": "BNS",
+    "section": "300",
+    "title": "Disturbing religious assembly. Whoever voluntarily causes disturbance to any assembly"
+  },
+  "300": {
+    "source_id": "BNS:301",
+    "law": "BNS",
+    "section": "301",
+    "title": "Trespassing on burial places, etc"
+  },
+  "301": {
+    "source_id": "BNS:302",
+    "law": "BNS",
+    "section": "302",
+    "title": "Uttering words, etc., with deliberate intent to wound religious feelings of any person."
+  },
+  "302": {
+    "source_id": "BNS:303",
+    "law": "BNS",
+    "section": "303",
+    "title": "Theft. (1) Whoever, intending to take dishonestly any movable property out of the possession"
+  },
+  "303": {
+    "source_id": "BNS:304",
+    "law": "BNS",
+    "section": "304",
+    "title": "Snatching. (1) Theft is snatching if, in order to commit theft, the offender suddenly or quickly"
+  },
+  "304": {
+    "source_id": "BNS:305",
+    "law": "BNS",
+    "section": "305",
+    "title": "Theft in a dwelling house, or means of transportation or place of worship, etc. Whoever"
+  },
+  "305": {
+    "source_id": "BNS:306",
+    "law": "BNS",
+    "section": "306",
+    "title": "Theft by clerk or servant of property in possession of master"
+  },
+  "306": {
+    "source_id": "BNS:307",
+    "law": "BNS",
+    "section": "307",
+    "title": "Theft after preparation made for causing death, hurt or restraint in order to committing"
+  },
+  "307": {
+    "source_id": "BNS:308",
+    "law": "BNS",
+    "section": "308",
+    "title": "Extortion"
+  },
+  "308": {
+    "source_id": "BNS:309",
+    "law": "BNS",
+    "section": "309",
+    "title": "Robbery. (1) In all robbery there is either theft or extortion."
+  },
+  "309": {
+    "source_id": "BNS:310",
+    "law": "BNS",
+    "section": "310",
+    "title": "Dacoity"
+  },
+  "310": {
+    "source_id": "BNS:311",
+    "law": "BNS",
+    "section": "311",
+    "title": "Robbery, or dacoity, with attempt to cause death or grievous hurt"
+  },
+  "311": {
+    "source_id": "BNS:312",
+    "law": "BNS",
+    "section": "312",
+    "title": "Attempt to commit robbery or dacoity when armed with deadly weapon"
+  },
+  "312": {
+    "source_id": "BNS:313",
+    "law": "BNS",
+    "section": "313",
+    "title": "Punishment for belonging to gang of robbers, etc. Whoever belongs to any gang of persons"
+  },
+  "313": {
+    "source_id": "BNS:314",
+    "law": "BNS",
+    "section": "314",
+    "title": "Dishonest misappropriation of property. Whoever dishonestly misappropriates or converts"
+  },
+  "314": {
+    "source_id": "BNS:315",
+    "law": "BNS",
+    "section": "315",
+    "title": "Dishonest misappropriation of property possessed by deceased person at the time of his"
+  },
+  "315": {
+    "source_id": "BNS:316",
+    "law": "BNS",
+    "section": "316",
+    "title": "Criminal breach of trust"
+  },
+  "316": {
+    "source_id": "BNS:317",
+    "law": "BNS",
+    "section": "317",
+    "title": "Stolen property"
+  },
+  "317": {
+    "source_id": "BNS:318",
+    "law": "BNS",
+    "section": "318",
+    "title": "Cheating"
+  },
+  "318": {
+    "source_id": "BNS:319",
+    "law": "BNS",
+    "section": "319",
+    "title": "Cheating by personation"
+  },
+  "319": {
+    "source_id": "BNS:320",
+    "law": "BNS",
+    "section": "320",
+    "title": "Dishonest or fraudulent removal or concealment of property to prevent distribution"
+  },
+  "320": {
+    "source_id": "BNS:321",
+    "law": "BNS",
+    "section": "321",
+    "title": "Dishonestly or fraudulently preventing debt being available for creditors. Whoever"
+  },
+  "321": {
+    "source_id": "BNS:322",
+    "law": "BNS",
+    "section": "322",
+    "title": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration"
+  },
+  "322": {
+    "source_id": "BNS:323",
+    "law": "BNS",
+    "section": "323",
+    "title": "Dishonest or fraudulent removal or concealment of property"
+  },
+  "323": {
+    "source_id": "BNS:324",
+    "law": "BNS",
+    "section": "324",
+    "title": "Mischief. (1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful"
+  },
+  "324": {
+    "source_id": "BNS:325",
+    "law": "BNS",
+    "section": "325",
+    "title": "Mischief by killing or maiming animal. Whoever commits mischief by killing, poisoning,"
+  },
+  "325": {
+    "source_id": "BNS:326",
+    "law": "BNS",
+    "section": "326",
+    "title": "Mischief by injury, inundation, fire or explosive substance, etc. Whoever commits"
+  },
+  "326": {
+    "source_id": "BNS:327",
+    "law": "BNS",
+    "section": "327",
+    "title": "Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden"
+  },
+  "327": {
+    "source_id": "BNS:328",
+    "law": "BNS",
+    "section": "328",
+    "title": "Punishment for intentionally running vessel aground or ashore with intent to commit"
+  },
+  "328": {
+    "source_id": "BNS:329",
+    "law": "BNS",
+    "section": "329",
+    "title": "Criminal trespass and house-trespass"
+  },
+  "329": {
+    "source_id": "BNS:330",
+    "law": "BNS",
+    "section": "330",
+    "title": "House-trespass and house-breaking. (1) Whoever commits house-trespass having taken"
+  },
+  "330": {
+    "source_id": "BNS:331",
+    "law": "BNS",
+    "section": "331",
+    "title": "Punishment for house-trespass or house-breaking. (1) Whoever commits lurking house-"
+  },
+  "331": {
+    "source_id": "BNS:332",
+    "law": "BNS",
+    "section": "332",
+    "title": "House-trespass in order to commit offence"
+  },
+  "332": {
+    "source_id": "BNS:333",
+    "law": "BNS",
+    "section": "333",
+    "title": "House-trespass after preparation for hurt, assault or wrongful restraint. Whoever"
+  },
+  "333": {
+    "source_id": "BNS:334",
+    "law": "BNS",
+    "section": "334",
+    "title": "Dishonestly breaking open receptacle containing property"
+  },
+  "334": {
+    "source_id": "BNS:335",
+    "law": "BNS",
+    "section": "335",
+    "title": "Making a false document. A person is said to make a false document or false electronic"
+  },
+  "335": {
+    "source_id": "BNS:336",
+    "law": "BNS",
+    "section": "336",
+    "title": "Forgery"
+  },
+  "336": {
+    "source_id": "BNS:337",
+    "law": "BNS",
+    "section": "337",
+    "title": "Forgery of record of Court or of public register, etc"
+  },
+  "337": {
+    "source_id": "BNS:338",
+    "law": "BNS",
+    "section": "338",
+    "title": "Forgery of valuable security, will, etc"
+  },
+  "338": {
+    "source_id": "BNS:339",
+    "law": "BNS",
+    "section": "339",
+    "title": "Having possession of document described in section 337 or section 338, knowing it to be"
+  },
+  "339": {
+    "source_id": "BNS:340",
+    "law": "BNS",
+    "section": "340",
+    "title": "Forged document or electronic record and using it as genuine"
+  },
+  "340": {
+    "source_id": "BNS:341",
+    "law": "BNS",
+    "section": "341",
+    "title": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338"
+  },
+  "341": {
+    "source_id": "BNS:342",
+    "law": "BNS",
+    "section": "342",
+    "title": "Counterfeiting device or mark used for authenticating documents described in section 338,"
+  },
+  "342": {
+    "source_id": "BNS:343",
+    "law": "BNS",
+    "section": "343",
+    "title": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable"
+  },
+  "343": {
+    "source_id": "BNS:344",
+    "law": "BNS",
+    "section": "344",
+    "title": "Falsification of accounts"
+  },
+  "344": {
+    "source_id": "BNS:345",
+    "law": "BNS",
+    "section": "345",
+    "title": "Property mark. (1) A mark used for denoting that movable property belongs to a particular"
+  },
+  "345": {
+    "source_id": "BNS:346",
+    "law": "BNS",
+    "section": "346",
+    "title": "Tampering with property mark with intent to cause injury. Whoever removes, destroys,"
+  },
+  "346": {
+    "source_id": "BNS:347",
+    "law": "BNS",
+    "section": "347",
+    "title": "Counterfeiting a property mark. (1) Whoever counterfeits any property mark used by any"
+  },
+  "347": {
+    "source_id": "BNS:348",
+    "law": "BNS",
+    "section": "348",
+    "title": "Making or possession of any instrument for counterfeiting a property mark. Whoever"
+  },
+  "348": {
+    "source_id": "BNS:349",
+    "law": "BNS",
+    "section": "349",
+    "title": "Selling goods marked with a counterfeit property mark. Whoever sells, or exposes, or has"
+  },
+  "349": {
+    "source_id": "BNS:350",
+    "law": "BNS",
+    "section": "350",
+    "title": "Making a false mark upon any receptacle containing goods. (1) Whoever makes any false"
+  },
+  "350": {
+    "source_id": "BNS:351",
+    "law": "BNS",
+    "section": "351",
+    "title": "Criminal intimidation. (1) Whoever threatens another by any means, with any injury to his"
+  },
+  "351": {
+    "source_id": "BNS:352",
+    "law": "BNS",
+    "section": "352",
+    "title": "Intentional insult with intent to provoke breach of peace"
+  },
+  "352": {
+    "source_id": "BNS:353",
+    "law": "BNS",
+    "section": "353",
+    "title": "Statements conducing to public mischief. (1) Whoever makes, publishes or circulates any"
+  },
+  "353": {
+    "source_id": "BNS:354",
+    "law": "BNS",
+    "section": "354",
+    "title": "Act caused by inducing person to believe that he will be rendered an object of Divine"
+  },
+  "354": {
+    "source_id": "BNS:355",
+    "law": "BNS",
+    "section": "355",
+    "title": "Misconduct in public by a drunken person"
+  },
+  "355": {
+    "source_id": "BNS:356",
+    "law": "BNS",
+    "section": "356",
+    "title": "Defamation"
+  },
+  "356": {
+    "source_id": "BNS:357",
+    "law": "BNS",
+    "section": "357",
+    "title": "Breach of contract to attend on and supply wants of helpless person. Whoever, being"
+  },
+  "357": {
+    "source_id": "BNS:358",
+    "law": "BNS",
+    "section": "358",
+    "title": "Repeal and savings. (1) The Indian Penal Code (45 of 1860) is hereby repealed."
+  }
+}
