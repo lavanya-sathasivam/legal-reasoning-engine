@@ -29,24 +29,6 @@ Current imported corpus:
 - BSA: Bharatiya Sakshya Adhiniyam
 - Constitution of India
 
-Each processed section uses schema version `2.0` and includes fields such as:
-
-- `law`
-- `section`
-- `title`
-- `chapter`
-- `provision_type`
-- `issue_types`
-- `original_text`
-- `citations`
-- `legal_elements`
-- `required_facts`
-- `missing_fact_questions`
-- `confidence_policy`
-- `review_status`
-
-The schema lives at `data/schemas/legal_section.schema.json`.
-
 ## Features
 
 - Chat-based case analysis.
@@ -98,10 +80,7 @@ python -m src.api.app
 ```
 
 Then open:
-
-```text
 http://127.0.0.1:8000
-```
 
 If port `8000` is already in use:
 
