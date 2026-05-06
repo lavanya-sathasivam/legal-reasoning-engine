@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://legal-reasoning-engine.local/schemas/legal_section.schema.json",
+  "title": "Legal Section Record",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "law",
+    "section",
+    "title",
+    "chapter",
+    "source_id",
+    "provision_type",
+    "issue_types",
+    "summary",
+    "original_text",
+    "citations",
+    "legal_elements",
+    "exceptions",
+    "explanations",
+    "illustrations",
+    "definitions",
+    "cross_references",
+    "required_facts",
+    "missing_fact_questions",
+    "applicability_notes",
+    "confidence_policy",
+    "review_status"
+  ],
+  "properties": {
+    "schema_version": { "const": "2.0" },
+    "law": { "type": "string", "minLength": 1 },
+    "section": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "chapter": { "type": "object" },
+    "source_id": { "type": "string", "minLength": 1 },
+    "provision_type": {
+      "enum": [
+        "offence",
+        "punishment",
+        "definition",
+        "exception",
+        "procedure",
+        "evidence_rule",
+        "constitutional_right",
+        "general",
+        "interpretation"
+      ]
+    },
+    "issue_types": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "summary": { "type": "string" },
+    "original_text": { "type": "string" },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["law", "section", "label"],
+        "properties": {
+          "law": { "type": "string" },
+          "section": { "type": "string" },
+          "label": { "type": "string" },
+          "title": { "type": "string" }
+        }
+      }
+    },
+    "legal_elements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "required", "fact_slots"],
+        "properties": {
+          "id": { "type": "string" },
+          "label": { "type": "string" },
+          "required": { "type": "boolean" },
+          "fact_slots": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "source_text": { "type": "string" }
+        }
+      }
+    },
+    "exceptions": { "type": "array", "items": { "type": "string" } },
+    "explanations": { "type": "array", "items": { "type": "string" } },
+    "illustrations": { "type": "array", "items": { "type": "string" } },
+    "definitions": { "type": "array", "items": { "type": "string" } },
+    "cross_references": { "type": "array", "items": { "type": "object" } },
+    "required_facts": { "type": "array", "items": { "type": "string" } },
+    "missing_fact_questions": { "type": "array", "items": { "type": "string" } },
+    "applicability_notes": { "type": "string" },
+    "confidence_policy": { "type": "object" },
+    "review_status": {
+      "enum": ["processed", "needs_human_review", "source_missing", "pending_import"]
+    }
+  }
+}

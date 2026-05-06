@@ -8,6 +8,10 @@ src/api/venv/
 __pycache__/
 *.pyc
 
+# Local runtime data
+*.db
+data/indexes/_bns_only_section_id_map.json
+
 # OS files
 .DS_Store
 Thumbs.db

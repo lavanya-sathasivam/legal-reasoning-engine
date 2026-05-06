@@ -11,7 +11,8 @@ class PreprocessingTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmpdir:
             manifest_path = Path(tmpdir) / "corpus_manifest.json"
             manifest = ensure_corpus_manifest(manifest_path)
-            self.assertEqual(manifest["enabled_laws"], ["BNS"])
+            self.assertIn("BNS", manifest["enabled_laws"])
+            self.assertIn("BNSS", manifest["enabled_laws"])
             self.assertIn("BNSS", manifest["laws"])
             self.assertTrue(manifest_path.exists())
 
